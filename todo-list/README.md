@@ -1,10 +1,9 @@
 # Todo List Project
 Try it: https://react-todolist-project-32xegwwjm-zayin-mikhails-projects.vercel.app/
 
-![Screenshot (27)](https://github.com/zayinhd/react-projects/assets/88446286/95bb138e-e43b-4993-8b4f-747a94b31975)
+![Screenshot (33)](https://github.com/zayinhd/react-projects/assets/88446286/37090d88-7c8d-4df6-bec8-8c6f51dda952)
 
-![Uploading Screenshot (29).png…]()
-
+![Screenshot (32)](https://github.com/zayinhd/react-projects/assets/88446286/1b3d732d-072b-4b37-8254-72834d975add)
 
 # Getting Started with Create React App
 
